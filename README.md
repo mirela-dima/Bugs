@@ -3,6 +3,7 @@
 You can find below some samples of bug reports that i wrote.
 
 ...................................
+
 The breadcrumbs are missing
 
 Priority: 3
@@ -21,7 +22,8 @@ The breadcrumbs should be available under the header that shows the stepps i’v
 
 Actual results
 The breadcrumbs aren’t available.
-.....................................
+
+....................................
 
 The login page is incomplete
 
@@ -43,7 +45,8 @@ The password field should be next to type in.
 
 Actual results
 The password field don't exist. The system gives the possibility to login without the password.
-..................................
+
+....................................
 
 The pictures of the products have different sizes
 
@@ -58,6 +61,7 @@ All the shopcard-pictures should have the same size, as the Apple Juice shopcard
 
 Actual results
 Some shopcard-pictures have different sizes.
+
 ......................................
 
 The first choise in the Expiry Year of the card is 2080
