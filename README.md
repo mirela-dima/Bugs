@@ -4,7 +4,7 @@ You can find below some samples of bug reports that i wrote.
 
 ...................................
 
-###The breadcrumbs are missing
+### The breadcrumbs are missing
 
 **Priority**: 3
 **Severity**: Low
@@ -25,7 +25,7 @@ The breadcrumbs aren’t available.
 
 ....................................
 
-###The login page is incomplete
+### The login page is incomplete
 
 **Prioriry**:  1
 **Severity**:  High
@@ -48,7 +48,7 @@ The password field don't exist. The system gives the possibility to login withou
 
 ....................................
 
-###The link http://www.pensiunea-mareaneagra.ro/ is a broken link
+### The link http://www.pensiunea-mareaneagra.ro/ is a broken link
 
 **Description**
 The link http://www.pensiunea-mareaneagra.ro/ is a broken link.
@@ -67,7 +67,7 @@ The error message shows: This site can’t be reached.
 
 ....................................
 
-###The pictures of the products have different sizes
+### The pictures of the products have different sizes
 
 **Description**
 Some shopcard pictures are bigger or smaller than the pictures of other products.
